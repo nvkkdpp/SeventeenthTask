@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\bin\Debug\netcoreapp3.1\SeventeenthTask.exe
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\bin\Debug\netcoreapp3.1\SeventeenthTask.deps.json
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\bin\Debug\netcoreapp3.1\SeventeenthTask.runtimeconfig.json
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\bin\Debug\netcoreapp3.1\SeventeenthTask.runtimeconfig.dev.json
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\bin\Debug\netcoreapp3.1\SeventeenthTask.dll
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\bin\Debug\netcoreapp3.1\SeventeenthTask.pdb
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.csproj.AssemblyReference.cache
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.AssemblyInfoInputs.cache
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.AssemblyInfo.cs
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.csproj.CoreCompileInputs.cache
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.dll
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.pdb
+C:\Users\Илья\source\repos\SeventeenthTask\SeventeenthTask\obj\Debug\netcoreapp3.1\SeventeenthTask.genruntimeconfig.cache
